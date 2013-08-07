@@ -29,7 +29,7 @@ int main(int argc, char *argv[]) {
     std::cout << e.description().toStdString();
   }
   view.setResizeMode(QQuickView::ResizeMode::SizeRootObjectToView);
-  view.setClearBeforeRendering(false);
+  view.setClearBeforeRendering(true);
   view.show();
 
   //draw in opengl
