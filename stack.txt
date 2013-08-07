@@ -1,0 +1,35 @@
+ 	qwindowsd.dll!QWindowsNativeFileDialogBase::close() Line 856	C++
+ 	qwindowsd.dll!QWindowsDialogHelperBase<QPlatformFileDialogHelper>::hide() Line 601	C++
+ 	dialogplugind.dll!QQuickAbstractDialog::setVisible(bool v) Line 86	C++
+ 	dialogplugind.dll!QQuickAbstractFileDialog::setVisible(bool v) Line 74	C++
+ 	dialogplugind.dll!QQuickAbstractDialog::reject() Line 193	C++
+ 	dialogplugind.dll!QQuickAbstractDialog::qt_static_metacall(QObject * _o, QMetaObject::Call _c, int _id, void * * _a) Line 153	C++
+ 	Qt5Cored.dll!000000005f2b88d9()	Unknown
+ 	Qt5Cored.dll!000000005f2b8088()	Unknown
+ 	Qt5Guid.dll!000007fdf1c4d164()	Unknown
+ 	Qt5Guid.dll!000007fdf1c4d096()	Unknown
+ 	Qt5Cored.dll!000000005f2c12d1()	Unknown
+ 	Qt5Cored.dll!000000005f2ba2df()	Unknown
+ 	Qt5Cored.dll!000000005f264c56()	Unknown
+ 	Qt5Cored.dll!000000005f262e15()	Unknown
+ 	Qt5Guid.dll!000007fdf165b324()	Unknown
+ 	Qt5Cored.dll!000000005f2641a6()	Unknown
+ 	Qt5Cored.dll!000000005f26f103()	Unknown
+ 	Qt5Cored.dll!000000005f265615()	Unknown
+ 	Qt5Cored.dll!000000005f26291a()	Unknown
+ 	Qt5Guid.dll!000007fdf163cb32()	Unknown
+ 	qwindowsd.dll!QWindowsGuiEventDispatcher::sendPostedEvents() Line 87	C++
+ 	Qt5Cored.dll!000000005f304f9e()	Unknown
+ 	user32.dll!UserCallWinProcCheckWow()	Unknown
+ 	user32.dll!DispatchMessageWorker()	Unknown
+ 	Qt5Cored.dll!000000005f305ac9()	Unknown
+ 	qwindowsd.dll!QWindowsGuiEventDispatcher::processEvents(QFlags<enum QEventLoop::ProcessEventsFlag> flags) Line 78	C++
+ 	Qt5Cored.dll!000000005f25f2b8()	Unknown
+ 	Qt5Cored.dll!000000005f25f4f3()	Unknown
+ 	Qt5Cored.dll!000000005f2622ff()	Unknown
+ 	Qt5Guid.dll!000007fdf165b238()	Unknown
+>	qtcrash.exe!main(int argc, char * * argv) Line 44	C++
+ 	qtcrash.exe!__tmainCRTStartup() Line 536	C
+ 	qtcrash.exe!mainCRTStartup() Line 377	C
+ 	kernel32.dll!BaseThreadInitThunk()	Unknown
+ 	ntdll.dll!RtlUserThreadStart()	Unknown
